@@ -1,10 +1,8 @@
 # Swift-Android-Toolchains
 
-Only for >= MacOS 10.14.x
+Only for >= MacOS 10.14.x,
 
-If `git clone` too slow, you can `view raw` to get the [download url of "swift-android-toolchain_5_1_dev_ndk_20.7z"](https://media.githubusercontent.com/media/Guang1234567/swift_android_toolchains/master/swift-android-toolchain_5_1_dev_ndk_20.7z).
-
-Because using [git-lfs](https://git-lfs.github.com/) to upload large file.
+Not working on Windows Host!!! 
 
 ## English
 
